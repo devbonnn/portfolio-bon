@@ -22,11 +22,11 @@ function Skills() {
         </div>
         <hr />
         <div className={styles.skillList}>
-            <SkillList src={checkMarkIcon} skill="Redux" />
-            <SkillList src={checkMarkIcon} skill="Webpack" />
-            <SkillList src={checkMarkIcon} skill="Git" />
-            <SkillList src={checkMarkIcon} skill="Jest" />
-            <SkillList src={checkMarkIcon} skill="Bootsrap" />
+            <SkillList src={checkMarkIcon} skill="UI UX Design" />
+            <SkillList src={checkMarkIcon} skill="Animation" />
+            <SkillList src={checkMarkIcon} skill="SEO" />
+            <SkillList src={checkMarkIcon} skill="3D Modelling" />
+            <SkillList src={checkMarkIcon} skill="Application Design" />
         </div>
     </section>
   );
