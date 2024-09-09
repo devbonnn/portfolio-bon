@@ -35,7 +35,7 @@ const linkedinIcon = theme === 'light' ? linkedinLight : linkedinDark;
      </div>
      <div className={styles.info}>
         <h1>
-            Bon
+            Bonifacio
             <br/>
             Vista
         </h1>
@@ -52,7 +52,7 @@ const linkedinIcon = theme === 'light' ? linkedinLight : linkedinDark;
             </a>
         </span>
         <p className={styles.description}>
-        As a Lead UI/UX Designer with 5+ years of experience, I excel in creating user-centered designs, leading teams, and developing design systems. I've managed complex projects that boost user engagement and satisfaction, and I'm passionate about mentoring and driving success in fast-paced environments.
+        Lead UI/UX Designer with 5+ years of experience, skilled in user-centered design, team leadership, and design systems. I manage projects that enhance user engagement and enjoy mentoring in fast-paced environments.
         </p>
         < a href={CV} download>
             <button className="hover">
